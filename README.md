@@ -39,7 +39,10 @@ experiment_summary.json - Параметры, даты и статистика �
 conclusion.txt - Вывод, сформированный по реальным результатам
 
 
-Параметры для запуска кода
+**Файлы CSV размещаются в каталоге data:** games.csv; recommendations.csv; users.csv;
+
+
+**Параметры для запуска кода**
 
 
 >>     --data-dir data `
