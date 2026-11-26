@@ -39,6 +39,16 @@ experiment_summary.json - Параметры, даты и статистика �
 conclusion.txt - Вывод, сформированный по реальным результатам
 
 
+Параметры для запуска кода
+
+
+>>     --data-dir data `
+>>     --max-rows 0 `
+>>     --max-eval-users 200 `
+>>     --als-iterations 5 `
+>>     --min-user 2 `
+>>     --min-item 2   
+
 
 
 
